@@ -36,7 +36,7 @@
 }
 
 @media only screen and (maximum-width: 800px) {
-	.topnav a {
+	.navbar nav a {
 			font-size: 0.9em;
 	}
 }
@@ -48,7 +48,7 @@
 		float: none;
 	}
 
-	.border {
+	.border-right {
 		border: 0;
 	}
 
@@ -65,7 +65,7 @@
 }
 
 @media only screen and (maximum-width: 700px) {
-	.topnav a .menu-icon {
+	.navbar nav a .menu-icon {
   	display: block;
   	float: right; 	
   	font-size: 1.5em;
