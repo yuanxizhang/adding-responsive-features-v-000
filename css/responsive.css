@@ -65,7 +65,7 @@
 	}
 }
 
-@media only screen and (maximum-width: 700px) {
+@media only screen and (max: 700px) {
 	.navbar nav a .menu-icon {
   	display: block;
   	float: right; 	
