@@ -79,7 +79,7 @@
 }
 
 @media only screen and (maximum-width: 495px) {
-	#logo h2 {
+	#logo {
 		visibility: hidden;
 	}
 }
