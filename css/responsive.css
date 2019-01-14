@@ -61,7 +61,7 @@
 
 	.col-3 p { 
 	  -webkit-column-count: 1; /* Chrome, Safari, Opera */
-  	-moz-column-count: 1 /* Firefox */
+  	-moz-column-count: 1; /* Firefox */
 	  column-count: 1;
 	}
 }
