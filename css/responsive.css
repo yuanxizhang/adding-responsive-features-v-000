@@ -73,7 +73,7 @@
   	width: auto;
   }
 
-  .topnav a {
+  .navbar nav a {
   	display: none;
   }
 }
