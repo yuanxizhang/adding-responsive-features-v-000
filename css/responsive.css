@@ -15,7 +15,7 @@
   }
 }
 
-@media only screen and (maximum-width: 900px) {
+@media only screen and (max-width: 900px) {
 	body {
 		font-size: 90%;
 	}
